@@ -7,7 +7,7 @@ linux版：
 基于python，仅在路由器上测试
 
 window版：
-基于curl
+基于curl，
 Windows还可以使用系统拨号的方法，详见[小博](https://www.funnyang.com/how-to-bypass-chinaunicom-201-limit/)
 
 本脚本为自用，极其简陋，实用为主，大神勿喷！
